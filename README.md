@@ -1,5 +1,5 @@
 # AnimationExamples
-Animations Examples Activity/Fragments
+Animation Examples Activity/Fragments
 
 ## Final result:
 <p align = "center">
